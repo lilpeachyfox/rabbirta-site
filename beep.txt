@@ -1,0 +1,9 @@
+powershell "[console]::beep(300,300)" ;
+powershell "[console]::beep(500,300)" ;
+powershell "[console]::beep(700,300)" ;
+powershell "[console]::beep(900,300)" ;
+powershell "[console]::beep(800,300)" ;
+powershell "[console]::beep(600,300)" ;
+powershell "[console]::beep(400,300)" ;
+powershell "[console]::beep(200,300)" ;
+
